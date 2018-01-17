@@ -1,0 +1,2 @@
+# ambigujs
+Ambiguous JavaScript pattern
